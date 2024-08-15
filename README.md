@@ -122,6 +122,7 @@ ESP & ENG | ![es] | ![en]
 | [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda") | ![es] |
 | [OlgaCarreras](https://olgacarreras.blogspot.com/ "OlgaCarreras")                                                  | ![es] |
 | [QAnews](https://qanewsblog.com/ "QAnews")                                                                         | ![es] |
+| [Diario-de-QA](https://www.diariodeqa.com/ "www.diariodeqa.com")                                                                         | ![es] |
 | [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")                            | ![en] |
 | [Testguild.com](https://testguild.com/ "testguild.com")                                                            | ![en] |
 | [Ek121268](https://ek121268.medium.com/)                                                                           | ![en] |
@@ -208,6 +209,7 @@ ESP & ENG | ![es] | ![en]
 
 - [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/-/es/gp/product/B07H8PH7VB/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1 "Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts")
 
+- [Practical Software Testing – Manual Testing Help eBook Version 2.0](https://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/ "Practical Software Testing – Manual Testing Help eBook Version 2.0")
 
 <a name="Podcast"></a>
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
@@ -482,7 +484,7 @@ Una API con países y su información.
 
 #### ESP
 
-#### El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!
+#### El material de los repositorios esta en inglés, pero no es un obstaculo usando Google Translate ¡Anímese!
 
 ### Contenido
 
